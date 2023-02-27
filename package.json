@@ -1,0 +1,22 @@
+{
+  "name": "deployment_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prela/deployment_test.git"
+  },
+  "author": "Damir Prelic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prela/deployment_test/issues"
+  },
+  "homepage": "https://github.com/prela/deployment_test#readme",
+  "devDependencies": {
+    "coinflipperjs": "^1.0.0"
+  }
+}
