@@ -1,0 +1,21 @@
+U sklopu ovog zadatka, potrebno je:
+
+* 		●  forkati GitHub repozitorij 
+* 		●  otvoriti novi branch pod svojim imenom (imenovati ga u formatu ime-prezime) 
+* 		●  instalirati bilo koji novi npm paket: 
+    * 		○  pritom paziti da je instalacija zapisana u datoteci package.json 
+    * 		●  napraviti bilo kakvu promjenu u datoteci  script.js 
+    (dodati console.log(svoje ime i prezime))
+          dodat gitignore file
+* 		●  lokalno commitati sve promjene (poruka može biti “Ime Prezime: vjezba ispita”) 
+* 		●  Prenijeti zapisane promjene (pushati) na udaljeni GitHub repozitorij 
+(pod istoimenim branchem)Github repozitorij nalazi se na sljedećem URLu: 
+pitat profu Kako biste lokalno pokrenuli programski kôd, potrebno je: 
+
+
+1. Forkati Github repozitorij i otvoriti ga u code editoru (npr. VS Code) 
+2. Instalirati npm pakete (zapisane u package.json datoteci) 
+3. Dodati kod u index.html i provjeriti preko live-servera
+2. Zadatak 
+U sklopu ovog zadatka, potrebno je repozitorij iz prethodnog zadatka 
+postaviti na Netlify (deployati). 
